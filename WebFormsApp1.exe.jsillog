@@ -1,0 +1,22 @@
+// JSILc v0.8.30535
+// Build took 0006.65 second(s).
+// The following configuration was used when translating 'c:\users\jmui\documents\visual studio 2015\Projects\WebFormsApp1\WebFormsApp1\bin\Debug\WebFormsApp1.exe':
+{"ContributingPaths":["c:\\users\\jmui\\documents\\visual studio 2015\\Projects\\WebFormsApp1\\packages\\SharpJS.1.6.3\\jsil\\defaults.jsilconfig"],"Path":"c:\\users\\jmui\\documents\\visual studio 2015\\Projects\\WebFormsApp1\\packages\\SharpJS.1.6.3\\jsil","SolutionBuilder":{"Configuration":null,"Platform":null,"Target":null,"LogVerbosity":null,"ExtraOutputs":[]},"Quiet":null,"AutoLoadConfigFiles":null,"UseLocalProxies":null,"ReuseTypeInfoAcrossAssemblies":null,"ProxyWarnings":false,"OutputDirectory":"c:\\users\\jmui\\documents\\visual studio 2015\\Projects\\WebFormsApp1\\WebFormsApp1\\bin\\Debug\\html","FileOutputDirectory":null,"Profile":"Default","ProfileSettings":{"OverwriteExistingContent":true,"ContentOutputDirectory":"%outputdirectory%/Content"},"AnalyzerSettings":{},"CustomVariables":{},"ApplyDefaults":null,"IncludeDependencies":null,"UseSymbols":null,"UseThreads":null,"UseDefaultProxies":null,"GenerateSkeletonsForStubbedAssemblies":null,"SkipManifestCreation":null,"GenerateContentManifest":null,"RunBugChecks":null,"TuneGarbageCollection":null,"FilenameEscapeRegex":null,"FilenameReplaceRegexes":{},"AssemblyCollectionName":null,"EmitterFactories":[],"BuildSourceMap":null,"InlineAssemblyReferences":null,"FrameworkVersion":null,"Assemblies":{"TranslateAdditional":[],"Ignored":["Microsoft\\.VisualC,","Accessibility,","SMDiagnostics,","System\\.EnterpriseServices,","System\\.Security,","System\\.Runtime\\.Serialization\\.Formatters\\.Soap,","System\\.Runtime\\.DurableInstancing,","System\\.Data\\.SqlXml,","JSIL\\.Meta,"],"Stubbed":["^mscorlib,","^System,","^System\\.(.+),","^Microsoft\\.(.+),","FSharp.Core,"],"Proxies":[],"Redirects":{}},"CodeGenerator":{"EliminateStructCopies":null,"SimplifyOperators":null,"SimplifyLoops":null,"EliminateTemporaries":null,"EliminateRedundantControlFlow":null,"CacheMethodSignatures":null,"DisableGenericSignaturesLocalCache":null,"PreferLocalCacheForGenericMethodSignatures":null,"PreferLocalCacheForGenericInterfaceMethodSignatures":null,"CacheOneMethodSignaturePerMethod":null,"CacheTypeExpressions":null,"CacheBaseMethodHandles":null,"EliminatePointlessFinallyBlocks":null,"PreferAccessorMethods":null,"HintIntegerArithmetic":null,"EnableThreadedTransforms":null,"FreezeImmutableObjects":null,"EnableUnsafeCode":null,"HoistAllocations":null,"HintDoubleArithmetic":null,"AutoGenerateEventAccessorsInSkeletons":null,"AggressivelyUseElementProxies":null,"EmitAllParameterNames":null,"StripUnusedLoopNames":null,"IntroduceCharCasts":null,"IntroduceEnumCasts":null,"EmulateInt64":null,"DecomposeAllMutationOperators":null}}
+// The configuration was generated from the following configuration files:
+c:\users\jmui\documents\visual studio 2015\Projects\WebFormsApp1\packages\SharpJS.1.6.3\jsil\defaults.jsilconfig
+// The following outputs were produced:
+WebFormsApp1.exe.manifest.js
+WebFormsApp1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null.js
+mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089.js
+ExaPhaser.WebForms, Version=1.6.6104.32191, Culture=neutral, PublicKeyToken=null.js
+SharpJS.Dom, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null.js
+SharpJS.JSLibraries, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null.js
+ExaPhaser.SharpJS.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null.js
+System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089.js
+System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089.js
+System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089.js
+System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089.js
+System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a.js
+// The following method(s) were ignored due to untranslatable variables:
+// Miscellaneous log output follows:
+
